@@ -1,0 +1,14 @@
+{
+  "name": "rn-custom-accordian",
+  "version": "0.0.1",
+  "description": "a simple react native custom accordian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rn-custom-accordian"
+  ],
+  "author": "Maaz Mehtab",
+  "license": "ISC"
+}
